@@ -1,9 +1,9 @@
-# [Insurance-premium-data]
+# [Insurance-premium-data] (https://github.com/kmings93/Insurance-premium-data)
 A data analytics capstone project to showcase the skills and knowledge on exploratory data analysis.
 
 I have prepared a project with .
 
-Project source : Refer to the attached file above 
+Project source : Refer to the attached file link below. 
 https://github.com/kmings93/Insurance-premium-data/blob/main/Capstone%20Project%20-%20Insurance%20premium%20charged_Kwek%20Ming%20Sheng.pdf
 
 ## Sources
