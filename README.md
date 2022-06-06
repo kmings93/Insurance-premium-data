@@ -1,4 +1,4 @@
-#Insurance-premium-data
+# [Insurance-premium-data]
 A data analytics capstone project to showcase the skills and knowledge on exploratory data analysis.
 
 I have prepared a project with .
