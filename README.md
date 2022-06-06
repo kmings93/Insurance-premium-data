@@ -4,6 +4,7 @@ A data analytics capstone project to showcase the skills and knowledge on explor
 I have prepared a project with .
 
 Project source : Refer to the attached file above 
+https://github.com/kmings93/Insurance-premium-data/blob/main/Capstone%20Project%20-%20Insurance%20premium%20charged_Kwek%20Ming%20Sheng.pdf
 
 ## Sources
 Link: https://www.kaggle.com/simranjain17/insurance 
