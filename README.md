@@ -1,13 +1,12 @@
 # [Insurance-premium-data] (https://github.com/kmings93/Insurance-premium-data)
-A data analytics capstone project to showcase the skills and knowledge on exploratory data analysis.
+A data analytics capstone project to showcase the skills and knowledge on identifying problem statement, exploratory data analysis, data visualisation and providing key business recommendations.
 
 I have prepared a project with .
 
-Project source : Refer to the attached file link below. 
-https://github.com/kmings93/Insurance-premium-data/blob/main/Capstone%20Project%20-%20Insurance%20premium%20charged_Kwek%20Ming%20Sheng.pdf
-
 ## Sources
 Link: https://www.kaggle.com/simranjain17/insurance 
+
+Project source: https://github.com/kmings93/Insurance-premium-data/blob/main/Capstone%20Project%20-%20Insurance%20premium%20charged_Kwek%20Ming%20Sheng.pdf
 
 ## Tableau Dashboard
 Tableau link: 
