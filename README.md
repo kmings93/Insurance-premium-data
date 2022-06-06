@@ -1,7 +1,9 @@
-# Insurance-premium-data
-Project
+#Insurance-premium-data
+A data analytics capstone project to showcase the skills and knowledge on exploratory data analysis.
 
-Refer to the attached file 
+I have prepared a project with .
+
+Project source : Refer to the attached file above 
 
 ## Sources
 Link: https://www.kaggle.com/simranjain17/insurance 
