@@ -1,5 +1,5 @@
 # [Insurance-premium-data](https://github.com/kmings93/Insurance-premium-data)
-A data analytics capstone project to showcase the skills and knowledge on identifying problem statement, exploratory data analysis, data visualisation and providing key business recommendations.
+A data analytics capstone project on insurance premium data to showcase the skills and knowledge on identifying problem statement, exploratory data analysis, data visualisation and providing key business recommendations.
 
 ## Sources
 Link: https://www.kaggle.com/simranjain17/insurance 
