@@ -8,6 +8,6 @@ Project source: https://github.com/kmings93/Insurance-premium-data/blob/main/Cap
 
 ## Tableau Dashboard
 Tableau link: 
-![image] (https://public.tableau.com/app/profile/kwek.ming.sheng/viz/Dataanalysisproject-Insurancepremiumscharged/NumberofCustomers?publish=yes)
+![image](https://public.tableau.com/app/profile/kwek.ming.sheng/viz/Dataanalysisproject-Insurancepremiumscharged/NumberofCustomers?publish=yes)
 (https://user-images.githubusercontent.com/95040177/172092395-d67bd072-1930-4008-9183-26da838f5bc0.png)
 
